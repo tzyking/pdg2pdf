@@ -1,9 +1,9 @@
 # pdg2pdf 步骤整合
 import imghdr
 import os
-import sys
-import re
-import time
+# import sys
+# import re
+# import time
 from PIL import Image
 import jpg2pdf
 
